@@ -11,4 +11,4 @@
 * :scroll: [Hints for Computer System Design](hints-for-computer-system-design.pdf)
 * :scroll: [Early Lisp History: 1956-1959](early-lisp-history-1956-1959-herbert-stoyan-html-rendering.pdf) by Herbert Stoyan. This is a pdf rendering of the HTML page available at Archive.org.
 * :scroll: [Why Programming is a good medium for expressing poorly understood and sloppily-formulated ideas](http://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html) by Marvin Minsky
-* :scroll: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+* :scroll: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) by David Goldberg
